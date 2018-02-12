@@ -1,7 +1,9 @@
-CONSUMER_KEY = ''
-CONSUMER_SECRET = ''
-ACCESS_KEY = ''
-ACCESS_SECRET = ''
+CONSUMER_KEY = '3IUfZDZ8UQYAVZogwcgdS2EGl'
+CONSUMER_SECRET = 'qPZobV9Tzb2XnmuZH0Tknr7rIEPgGTqaucxSKjVpMei82D4TNe'
+ACCESS_KEY = '388081392-Bl7TWKEKhN5svLUuJTfKCKH1bbYKC9ymP1vNcki0'
+ACCESS_SECRET = 'cg2wQaQChTFcXaL0Lh9IAYmHRJAOZBkXuGSZ2mQ0jAZaj'
+
+
 ## Instructions to get these credentials:
 ## 1. Create a twitter account, or log in to your own
 ## 2. Visit apps.twitter.com
